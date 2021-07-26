@@ -1,0 +1,10 @@
+var no = 11;
+var str = "Angular";
+var value = false;
+var A;
+console.log("value of str is :", str);
+console.log(typeof str);
+console.log("value of value is :", value);
+console.log(typeof value);
+console.log("value of A is :", A);
+console.log(typeof A);
